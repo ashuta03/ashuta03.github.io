@@ -1,41 +1,27 @@
-## I am a graduate student at the University of Delaware studying Computer Science.
+## About me
+
+I am a Computer Science PhD student at the University of Delaware. I work with Dr. Chandra Kambhamettu in [Video/Image Modelling and Synthesis (VIMS)](http://bigdatavision.org/) lab. 
 
 
-You can use the [editor on GitHub](https://github.com/ashuta03/ashuta03.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Recent studies in deep learning-based contour detection methods show high accuracy in single class boundary or edge detection problems. However, this performance does not translate well in a multi-class contour detection scenario where continuous contours are required. My current research focuses on developing an efficient deep learning-based solution to multi-class contour detection problem. This system can be applied in medical image segmentation and diagnostic studies. 
 
-### Research
-I am doing my research in (insert your research topic and lab) under the guidence of (your professor name).
+My research interest includes **Deep learning, Image classificationa and segmentation, Medical image analysis, and VR technology**.
 
-My research interest includes **Computer Vision and AR/VR**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+<!-- ## Research projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashuta03/ashuta03.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ -->
+## Education and work background
 
-### Support or Contact
+(2020-present)&nbsp;&nbsp;&nbsp; PhD - Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Delaware
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(2018-2020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EKbana Nepal
+
+(2013-2017)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BE - Computer Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institite of Engineering (IOE), Trivuwan University
+
+## Contact 
+
+[Email](ashutab@udel.edu)  |   [Linkedin](https://www.linkedin.com/in/ashuta-bhattarai-63579723/)
