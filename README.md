@@ -10,10 +10,12 @@ Recent studies in deep learning-based contour detection methods show high accura
 My research interest includes **Deep learning, Image classificationa and segmentation, Medical image analysis, and VR technology**.
 
 
-<!-- ## Research projects
+## Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashuta03/ashuta03.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
- -->
+<ul>
+<li>Jin J, Bhattarai A, Miller R, Kolb EA and Kambhamettu C. A deep learning system for sickle cell retinopathy detection using retinal OCT images from children with sickle cell disease. IOVS 2022:ARVO E-Abstract 
+</ul>
+
 ## Education and work background
 
 (2020-present)&nbsp;&nbsp;&nbsp; PhD - Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Delaware
@@ -24,4 +26,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Contact 
 
-[Email](ashutab@udel.edu)  |   [Linkedin](https://www.linkedin.com/in/ashuta-bhattarai-63579723/)
+[Email](ashutab@udel.edu) | [Linkedin](https://www.linkedin.com/in/ashuta-bhattarai-63579723/)
