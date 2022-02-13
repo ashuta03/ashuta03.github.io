@@ -13,7 +13,7 @@ My research interest includes **Deep learning, Image classificationa and segment
 ## Publications
 
 <ul>
-<li>Jin J, Bhattarai A, Miller R, Kolb EA and Kambhamettu C. A deep learning system for sickle cell retinopathy detection using retinal OCT images from children with sickle cell disease. IOVS 2022:ARVO E-Abstract </li>
+<li>Jin J, Bhattarai A, Miller R, Kolb EA and Kambhamettu C. A deep learning system for sickle cell retinopathy detection using retinal OCT images from children with sickle cell disease. IOVS 2022:ARVO E-Abstract. </li>
 </ul>
 
 ## Education and work background
