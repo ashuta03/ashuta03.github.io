@@ -22,7 +22,7 @@ My research interest includes **Deep learning, Image classificationa and segment
 
 (2018-2020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EKbana Nepal
 
-(2013-2017)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BE - Computer Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institite of Engineering (IOE), Trivuwan University
+(2013-2017)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BE - Computer Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institute of Engineering (IOE), Tribhuvan University
 
 ## Contact 
 
