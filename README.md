@@ -5,7 +5,7 @@ I am a Computer Science PhD student at the University of Delaware. I work with D
 
 ## Research
 
-Recent studies in deep learning-based contour detection methods show high accuracy in single class boundary or edge detection problems. However, this performance does not translate well in a multi-class contour detection scenario where continuous contours are required. My current research focuses on developing an efficient deep learning-based solution to multi-class contour detection problem. This system can be applied in medical image segmentation and diagnostic studies. 
+Recent studies in deep learning-based contour detection methods show high accuracy in single class boundary or edge detection problems. However, this performance does not translate well in a multi-class contour detection scenario where continuous contours are required. My current research focuses on developing an efficient deep learning-based solution to multi-class contour detection problem. This system can be applied in medical image segmentation and diagnostic studies. [More](http://bigdatavision.org/octimg/)
 
 My research interest includes **Deep learning, Image classificationa and segmentation, Medical image analysis, and VR technology**.
 
