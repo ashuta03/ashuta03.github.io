@@ -1,14 +1,14 @@
 ## About me
 <p style="text-align: justify;">
-I am a Computer Science PhD student at the University of Delaware. I work with Dr. Chandra Kambhamettu in [Video/Image Modelling and Synthesis (VIMS)](http://bigdatavision.org/) lab.
+I am a Computer Science PhD student at the University of Delaware. I work with Dr. Chandra Kambhamettu in <a href="http://bigdatavision.org/">Video/Image Modelling and Synthesis (VIMS)</a> lab.
 </p>
 
 ## Research
 <p style="text-align: justify;">
-Recent studies in deep learning-based contour detection methods show high accuracy in single class boundary or edge detection problems. However, this performance does not translate well in a multi-class contour detection scenario where continuous contours are required. My current research focuses on developing an efficient deep learning-based solution to multi-class contour detection problem. This system can be applied in medical image segmentation and diagnostic studies. [More](http://bigdatavision.org/octimg/).
-
-
-My research interest includes **Deep learning, Image classificationa and segmentation, Medical image analysis, and VR technology**.
+Recent studies in deep learning-based contour detection methods show high accuracy in single class boundary or edge detection problems. However, this performance does not translate well in a multi-class contour detection scenario where continuous contours are required. My current research focuses on developing an efficient deep learning-based solution to multi-class contour detection problem. This system can be applied in medical image segmentation and diagnostic studies. <a href="http://bigdatavision.org/octimg/">More</a>
+</p>
+<p style="text-align: justify;">
+My research interests include <b> Deep learning, Image classificationa and segmentation, Medical image analysis, and VR technology</b>.
 </p>
 
 ## Publications
