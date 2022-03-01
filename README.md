@@ -1,6 +1,6 @@
 ## About me
 
-I am a Computer Science PhD student at the University of Delaware. I work with Dr. Chandra Kambhamettu in [Video/Image Modelling and Synthesis (VIMS)](http://bigdatavision.org/) lab. 
+I am a Computer Science PhD student at the University of Delaware. I work with Dr. Chandra Kambhamettu in [Video/Image Modelling and Synthesis (VIMS)](http://bigdatavision.org/) lab.
 
 
 ## Research
