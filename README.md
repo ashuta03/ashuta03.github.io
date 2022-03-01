@@ -18,13 +18,11 @@ My research interest includes **Deep learning, Image classificationa and segment
 </ul>
 
 ## Education and work background
-<p style="text-align: justify;">
 (2020-present)&nbsp;&nbsp;&nbsp; PhD - Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Delaware
 
 (2018-2020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EKbana Nepal
 
 (2013-2017)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BE - Computer Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institite of Engineering (IOE), Trivuwan University
-</p>
 
 ## Contact 
 
