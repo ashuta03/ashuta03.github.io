@@ -35,4 +35,4 @@ href="https://ieeexplore.ieee.org/abstract/document/9897516">Link</a></li>
 
 ## Contact 
 
-[Email](ashutab@udel.edu) | [Linkedin](https://www.linkedin.com/in/ashuta-bhattarai-63579723/)
+<a href="mailto:ashutab@udel.edu">Email</a> | [Linkedin](https://www.linkedin.com/in/ashuta-bhattarai-63579723/)
