@@ -17,7 +17,7 @@ My research interests include <b> Deep learning, Computer vision, Medical image 
 ## Publications
 
 <ul style="text-align: justify;">
-<li> Bhattarai A, Jin J and Kambhamettu C. “Analyzing Adjacent B-Scans to Localize Sickle Cell Retinopathy in OCTs”. Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</li>
+<li> Bhattarai A, Jin J and Kambhamettu C. “Analyzing Adjacent B-Scans to Localize Sickle Cell Retinopathy in OCTs”. Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-72384-1_54">Link</a> </li>
 <li> Bhattarai A, Jin J and Kambhamettu C. “Detachable Encoder Transformer for SCR Detection”. IOVS 2024: ARVO E-Abstract. <a href="https://iovs.arvojournals.org/article.aspx?articleid=2794047">Link</a></li>
 <li> Jin J, Bhattarai A, Miller R, Kolb EA and Kambhamettu C. "A deep learning system for sickle cell retinopathy detection using retinal OCT images from children with sickle cell disease". IOVS 2022: ARVO E-Abstract. <a href="https://iovs.arvojournals.org/article.aspx?articleid=2783117">Link</a></li>
 <li> Bhattarai A, Kambhamettu C, and Jin J. "CUNet: Towards continuous multi-class contour detection for retinal layer segmentation in OCT images", 29th IEEE International Conference on Image Processing (ICIP), 2022. <a 
